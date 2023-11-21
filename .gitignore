@@ -1,0 +1,16 @@
+# macOS directory files
+**/.DS_Store
+
+# Coq build artifacts
+**/Makefile.coq
+**/Makefile.coq.conf
+**/.lia.cache
+**/*.aux
+**/*.d
+**/*.glob
+**/*.vo
+**/*.vok
+**/*.vos
+
+# Nix
+**/.direnv
